@@ -29,7 +29,7 @@ var loadUP = function () {
            
         }
     }) 
-    shopperEXP();
+    
     
 };
 
@@ -80,4 +80,8 @@ var shopperEXP = function(){
         })
     })
 };
+
+// Starts up the application
+loadUP();
+shopperEXP();
 
