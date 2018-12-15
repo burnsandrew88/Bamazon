@@ -9,4 +9,4 @@ open up your command/terminal on your computer and download the proper packages 
 
 Once you have completed this step, type in the following command: node bamazonCustomer.js
 
-### Watch this video to see a quick demo of the application in use!
+### Watch this video to see a quick demo of the application in use!: https://drive.google.com/file/d/1bQp_Ds8W0DEB-RlDqQrylhGudBln4a9-/view
